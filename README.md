@@ -1,5 +1,5 @@
 # ruby-threads
-The purpose of this code is to compare the script execution speed with and without the use of threads.  The code represents the preparation of a breakfast. The actions are separated into methods and their respective classes
+The purpose of this code is to compare the script execution speed with and without the use of threads.  The code represents the preparation of a breakfast. The actions are separated into methods and their respective classes.
 
 ## Para complitude da atividade proposta
 No print a seguir, é evidente a diferença de tempo para realizar as ações necessárias para preparar um suposto café da manhã. 
